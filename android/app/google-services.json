@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617695722946",
+    "project_id": "sing-in-for",
+    "storage_bucket": "sing-in-for.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617695722946:android:b7ba6e8bd1bd1a6310ea5b",
+        "android_client_info": {
+          "package_name": "com.example.sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617695722946-77sru1qq41vmbh6cat13t6k4d8dfm1he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwCLm0E6KoxGJv4Sj_hzcJA2EAbLoz3nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617695722946-77sru1qq41vmbh6cat13t6k4d8dfm1he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
