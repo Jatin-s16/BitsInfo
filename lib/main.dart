@@ -49,7 +49,7 @@ class MyAppStateful extends StatelessWidget {
                   style: TextStyle(fontSize: 15),
                 ),
                 SizedBox(
-                  height: 20,
+                  height: 10,
                 ),
                 ElevatedButton.icon(
                   style: ElevatedButton.styleFrom(
@@ -83,4 +83,4 @@ class NavigationDrawer extends StatelessWidget {
   Widget build(BuildContext context) {
     return Drawer();
   }
-}
+}// NavBar
